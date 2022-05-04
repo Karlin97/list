@@ -1,4 +1,4 @@
-! [Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Checksum: QmXRWv732NyJi5itw1LPgA
 ! Title: My AdFilters
 ! Expires: 12 hours
