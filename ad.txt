@@ -23417,7 +23417,6 @@ _box_ad_
 ||topqualitylink.com^$third-party
 ||yu0123456.com^$third-party
 ! CJX's Annoyance List
-!#include https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
